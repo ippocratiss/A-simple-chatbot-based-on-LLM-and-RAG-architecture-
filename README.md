@@ -20,8 +20,8 @@
 
 ## Files 
 
-**LLM.ipynb** The main Jupyter notebook to run the code.  
+**LLM.ipynb**: The main Jupyter notebook to run the code.  
 
-**model.py** Defines the model and other functionality.
+**model.py**: Defines the model and other functionality.
 
-**packages.py** Contains the necessary libraries and modules.
+**packages.py**: Contains the necessary libraries and modules.
